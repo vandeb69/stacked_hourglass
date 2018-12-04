@@ -1,0 +1,37 @@
+{
+  "img_dir": "data/wheat",
+  "data_file": "data/wheat/training_txt_file.txt",
+  "loader_dir": "loaders",
+  "log_dir": "logs",
+  "cp_dir": "checkpoints",
+  "name": "three_stacks",
+  "categories": ["earbases", "eartips", "spikelets"],
+  "batch_size": 10,
+  "n_stacks": 3,
+  "norm": true,
+  "rand": true,
+  "log_scalars": [
+    "training/loss",
+    "validation/loss"
+  ],
+  "log_imgs": [
+    "training/img/earbases",
+    "training/img/eartips",
+    "training/img/spikelets",
+    "validation/img/earbases",
+    "validation/img/eartips",
+    "validation/img/spikelets"
+  ],
+  "log_hists": [
+    "training/hist/earbases",
+    "training/hist/eartips",
+    "training/hist/spikelets",
+    "validation/hist/earbases",
+    "validation/hist/eartips",
+    "validation/hist/spikelets"
+  ],
+  "n_epochs": 1000,
+  "learn_rate": 1e-03,
+  "is_training": true,
+  "restart": false
+}
