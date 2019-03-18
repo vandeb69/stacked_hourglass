@@ -1,0 +1,42 @@
+{
+  "img_dir": "data/bees",
+  "data_file": "data/bees/connections.txt",
+  "loader_dir": "loaders",
+  "log_dir": "logs",
+  "cp_dir": "checkpoints",
+  "name": "three_stacks_bees",
+  "categories": ["front", "middle", "rear"],
+  "sigmas": [2.0, 2.0, 2.0],
+  "n_channels": 1,
+  "crop_size": 256,
+  "img_size": 256,
+  "out_size": 64,
+  "batch_size": 10,
+  "n_stacks": 3,
+  "norm": true,
+  "rand": true,
+  "log_scalars": [
+    "training/loss",
+    "validation/loss"
+  ],
+  "log_imgs": [
+    "training/img/front",
+    "training/img/middle",
+    "training/img/rear",
+    "validation/img/front",
+    "validation/img/middle",
+    "validation/img/rear"
+  ],
+  "log_hists": [
+    "training/hist/front",
+    "training/hist/middle",
+    "training/hist/rear",
+    "validation/hist/front",
+    "validation/hist/middle",
+    "validation/hist/rear"
+  ],
+  "n_epochs": 1000,
+  "learn_rate": 1e-03,
+  "is_training": true,
+  "restart": true
+}
