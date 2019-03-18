@@ -1,0 +1,720 @@
+{
+  "metadata": {
+    "Created": "2017-04-04T13:05:32.2375313+01:00",
+    "Modified": "2017-06-07T09:08:27.5943392+01:00",
+    "User": "sbzjaa",
+    "Complete": false,
+    "Ignore": false
+  },
+  "data": [
+    {
+      "Name": "Ear",
+      "Type": "PolyLine",
+      "Points": [
+        "694,791",
+        "700,952"
+      ]
+    },
+    {
+      "Name": "Ear",
+      "Type": "PolyLine",
+      "Points": [
+        "864,1030",
+        "782,1226"
+      ]
+    },
+    {
+      "Name": "Ear",
+      "Type": "PolyLine",
+      "Points": [
+        "911,797",
+        "883,936"
+      ]
+    },
+    {
+      "Name": "Ear",
+      "Type": "PolyLine",
+      "Points": [
+        "1131,1361",
+        "1130,1515"
+      ]
+    },
+    {
+      "Name": "Ear",
+      "Type": "PolyLine",
+      "Points": [
+        "1169,1069",
+        "1144,1253"
+      ]
+    },
+    {
+      "Name": "Ear",
+      "Type": "PolyLine",
+      "Points": [
+        "959.428571428571,1148.27380952381",
+        "951.571428571429,1233.27380952381",
+        "963.714285714286,1366.84523809524"
+      ]
+    },
+    {
+      "Name": "Ear",
+      "Type": "PolyLine",
+      "Points": [
+        "915.327380952381,1176.33333333333",
+        "928.827380952381,1327.33333333333"
+      ]
+    },
+    {
+      "Name": "Ear",
+      "Type": "PolyLine",
+      "Points": [
+        "1011.82738095238,987.833333333333",
+        "981.327380952381,1082.33333333333",
+        "942.327380952381,1228.83333333333"
+      ]
+    },
+    {
+      "Name": "Ear",
+      "Type": "PolyLine",
+      "Points": [
+        "1035.82738095238,942.833333333333",
+        "994.827380952381,1133.83333333333"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "695.106746031746,935.30873015873"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "691.306746031746,898.90873015873"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "690.306746031746,871.50873015873"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "692.706746031746,834.90873015873"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "705.506746031746,816.30873015873"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "707.906746031746,852.50873015873"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "707.906746031746,884.90873015873"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "710.706746031746,916.30873015873"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "711.706746031746,947.10873015873"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "713.306746031746,1003.70873015873"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "887.356746031746,909.342063492063"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "894.756746031746,879.942063492063"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "898.956746031746,850.142063492063"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "907.956746031746,819.742063492063"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "915.356746031746,789.342063492063"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "776.140079365079,1214.1253968254"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "789.390079365079,1186.1253968254"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "803.390079365079,1158.3753968254"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "817.390079365079,1130.6253968254"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "829.140079365079,1099.3753968254"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "844.390079365079,1065.3753968254"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "857.640079365079,1037.3753968254"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "858.640079365079,1058.3753968254"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "846.890079365079,1086.8753968254"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "831.140079365079,1120.6253968254"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "817.640079365079,1152.8753968254"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "807.140079365079,1178.6253968254"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "793.390079365079,1205.8753968254"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "952.878968253968,1170.87222222222"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "960.078968253968,1144.27222222222"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "968.078968253968,1116.67222222222"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "979.478968253968,1084.67222222222"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "987.302777777777,1050.025"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "997.702777777777,1019.025"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "967.278968253968,1166.27222222222"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "978.678968253968,1136.47222222222"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "985.878968253968,1105.47222222222"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "997.878968253968,1068.67222222222"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1003.69563492063,1124.80555555556"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "953.175396825396,1351.33333333333"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "959.575396825396,1334.53333333333"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "951.775396825396,1326.13333333333"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "958.375396825396,1311.53333333333"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "949.175396825396,1300.13333333333"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "957.175396825396,1287.93333333333"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "949.575396825396,1275.33333333333"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "958.375396825396,1257.73333333333"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "950.175396825396,1248.13333333333"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "955.575396825396,1235.73333333333"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1139.24206349206,1240.08888888889"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1154.24206349206,1228.28888888889"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1144.04206349206,1216.08888888889"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1153.84206349206,1205.88888888889"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1148.44206349206,1192.88888888889"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1157.44206349206,1141.28888888889"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1167.24206349206,1127.48888888889"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1160.44206349206,1113.28888888889"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1172.64206349206,1101.48888888889"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1162.84206349206,1083.68888888889"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1129.4753968254,1523.4"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1130.6753968254,1502"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1129.4753968254,1474.6"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1128.0753968254,1444.8"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1128.4753968254,1421.4"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1130.4753968254,1398.2"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1132.6753968254,1373.8"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1138.4753968254,1410.6"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1138.8753968254,1440.4"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1138.0753968254,1462.4"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1138.0753968254,1492.8"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1009.15833333333,1095.20436507937"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1016.40833333333,1058.70436507937"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1019.65833333333,1029.20436507937"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1025.15833333333,1001.20436507937"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1028.15833333333,978.954365079365"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1032.90833333333,953.204365079365"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "871.286111111111,1033.65833333333"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "873.286111111111,1015.25833333333"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "880.286111111111,939.458333333334"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "874.886111111111,967.058333333334"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "943.086111111111,856.858333333334"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "952.086111111111,832.258333333334"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "956.686111111111,810.858333333334"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "963.286111111111,732.258333333334"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "967.886111111111,707.658333333334"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "696.736111111111,806.941666666667"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1172.2503968254,1077.64484126984"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1136.84246031746,1357.78928571429"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "960.31746031746,1208.425"
+      ]
+    },
+    {
+      "Name": "Spikelet",
+      "Type": "Point",
+      "Points": [
+        "1006.62857142857,1000.07777777778"
+      ]
+    },
+    {
+      "Name": "Awns",
+      "Type": "Label",
+      "Value": "True"
+    }
+  ]
+}
