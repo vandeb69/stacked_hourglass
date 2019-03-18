@@ -7,6 +7,10 @@ from utils.dirs import ensure_dir
 
 class StackedHourglassModel:
     def __init__(self, config):
+        self.n_channels = config.n_channels
+        self.img_size = config.img_size
+        self.out_size = config.out_size
+
         self.out_dim = len(config.categories)
         self.n_stacks = config.n_stacks
         self.learn_rate = config.learn_rate
@@ -40,8 +44,8 @@ class StackedHourglassModel:
 
     def build_model(self):
         with tf.variable_scope('inputs'):
-            self.img = tf.placeholder(dtype=tf.float32, shape=(None, 256, 256, 3), name='input_img')
-            self.gtmap = tf.placeholder(dtype=tf.float32, shape=(None, self.n_stacks, 64, 64, self.out_dim))
+            self.img = tf.placeholder(dtype=tf.float32, shape=(None, self.img_size, self.img_size, self.n_channels), name='input_img')
+            self.gtmap = tf.placeholder(dtype=tf.float32, shape=(None, self.n_stacks, self.out_size, self.out_size, self.out_dim))
             self.avg_lengths = tf.placeholder(dtype=tf.float32, shape=None)
             self.is_training = tf.placeholder(tf.bool, name='training_flag')
 
