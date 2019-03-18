@@ -5,7 +5,7 @@ import json
 from easydict import EasyDict
 
 from logger import Logger
-from loader import StackedHourglassLoader
+from loader import StackedHourglassLoader1
 from model import StackedHourglassModel
 from trainer import StackedHourglassTrainer
 from utils.dirs import clear_dirs
@@ -21,7 +21,7 @@ config = EasyDict(config)
 if config.restart:
     clear_dirs((config.loader_dir, config.log_dir, config.cp_dir), name=config.name)
 
-loader = StackedHourglassLoader(config)
+loader = StackedHourglassLoader1(config)
 model = StackedHourglassModel(config)
 logger = Logger(config)
 
